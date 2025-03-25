@@ -144,8 +144,8 @@ nav a:hover {
 
 @media (max-width: 768px) {
     .hero{
-        margin-right: 223px;
-        margin-left: -129px;
+        margin-right: 207px;
+        margin-left: -157px;
     }
     .hero h1{
         width: 188%;
@@ -189,9 +189,10 @@ nav a:hover {
 
 @media (max-width: 768px) {
     .subjects {
-        width: 102%;
+        width: 112%;
         margin: 0 auto;
-        border-radius: 10px;
+        margin-left: -22px;
+        padding: 1px;
     }
 }
 
@@ -583,12 +584,14 @@ body {
     }
     .top-students h2{
         width: 169%;
-        margin-left: 22%;
+        margin-left: 27%;
     }
 
     .students-container {
         flex-direction: column;
         text-align: center;
+        width: 124%;
+        margin-left: -51px;
     }
 
     .category{
