@@ -9,13 +9,13 @@ function showSection(section) {
 }
 
 const hscStudents = [
-    { name: "Anisha Singh", year: "2022", marks: "90%", img: "hsc1.png" },
+    { name: "Anisha Singh", year: "2024", marks: "90%", img: "hsc1.png" },
     { name: "Mihika thorat", year: "2023", marks: "86%", img: "hsc2.png" },
     { name: "Krutarth Ashar", year: "2024", marks: "85.50%", img: "hsc3.jpg" }
 ];
 
 const sscStudents = [
-    { name: "Ansh Karvi", year: "2023", marks: "92%", img: "ssc1.jpg" },
+    { name: "Ansh Karvi", year: "2024", marks: "92%", img: "ssc1.jpg" },
     { name: "Minoshika Wankadia", year: "2023", marks: "85.60%", img: "ssc2.jpg" }
 ];
 
