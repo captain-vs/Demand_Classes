@@ -28,6 +28,6 @@ Welcome to the official GitHub repository for **Demand Classes** — an educatio
 To run locally:
 
 ```bash
-git clone https://github.com/captain-vs/demand_Classes
+git clone https://github.com/captain-vs/Demand_Classes.git
 cd demand-classes
 open index.html
