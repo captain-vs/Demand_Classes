@@ -29,5 +29,4 @@ To run locally:
 
 ```bash
 git clone https://github.com/captain-vs/Demand_Classes.git
-cd demand-classes
 open index.html
