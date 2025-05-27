@@ -217,6 +217,13 @@ body.no-scroll {
   overflow: hidden;
 }
 
+@media (max-width: 768px) {
+    .modal-content {
+        max-width: 81%;
+        height: 68%;
+        border-radius: 10px;
+}
+}
 
 /* Subjects Section */
 .subjects {
