@@ -8,6 +8,16 @@ function showSection(section) {
     document.getElementById(section).classList.add("active");
 }
 
+function openModal() {
+  document.getElementById("imageModal").style.display = "block";
+}
+
+function closeModal() {
+  document.getElementById("imageModal").style.display = "none";
+}
+
+
+
 const hscStudents = [
     { name: "Anisha Singh", year: "2024", marks: "90%", img: "hsc1.png" },
     { name: "Mihika thorat", year: "2023", marks: "86%", img: "hsc2.png" },
