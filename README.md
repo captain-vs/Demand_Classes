@@ -4,7 +4,7 @@ Welcome to the official GitHub repository for **Demand Classes** — an educatio
 
 ## 🔗 Live Website
 
-🌐 [Visit Demand Classes](https://demandclass.vercel.app)
+🌐 [Visit Demand Classes](https://demandclasses.vercel.app)
 
 ## 📌 Features
 
