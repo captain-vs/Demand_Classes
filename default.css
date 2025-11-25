@@ -8,7 +8,7 @@
     height: auto;
     
     }
-@media (max-width: 320px){
+@media (max-width: 768px){
     .mapView{
         margin-left: 0%;
         margin-right: 0%;
